@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527287776027",
+    "firebase_url": "https://knowledgebase-f54fe.firebaseio.com",
+    "project_id": "knowledgebase-f54fe",
+    "storage_bucket": "knowledgebase-f54fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527287776027:android:9ff5bfb7ada1c43d",
+        "android_client_info": {
+          "package_name": "com.mk.knowledgebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527287776027-oih79es1b4c7g3sn6n63hhsc72qu2rga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mk.knowledgebase",
+            "certificate_hash": "e1f83eff6845aacc41ede96d64ee1a07c3dd7e4a"
+          }
+        },
+        {
+          "client_id": "527287776027-0clgf6ue7fc4lfmlgsfoge3m2p8eo041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJFgycVxrAOO4y53rP4s9L6FUu1v0Ctw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527287776027-0clgf6ue7fc4lfmlgsfoge3m2p8eo041.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
